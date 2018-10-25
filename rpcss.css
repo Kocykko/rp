@@ -1,0 +1,112 @@
+
+#banner {
+    width: 90%;
+    height: 500px;
+    background-image: url('https://i.imgur.com/hcpRRK0.jpg');
+    background-size: cover;
+    -moz-background-size: cover;
+    background-position: center;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: -7px;
+    border-bottom: 3px groove #1f2845;
+}
+
+body {
+    background-color: #a7bbc6;
+}
+
+#matka {
+    width: 90%;
+    height: 70%;
+    background-color: #dce0df;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#pas {
+    width: 100%;
+    height: 50px;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: left;
+    background-color: #1f2845;
+    color: #a7bbc6;
+    font-size: 30px;
+    line-height: 50px;
+    position: relative;
+    text-decoration: none;
+    font-family: Kodchasan;
+    text-transform: uppercase;
+}
+
+#ikona {
+    color: white;
+    font-size: 40px;
+    display: block;
+    position: relative;
+    top: 5px;
+    right: 40px;
+    float: right;
+    background-color: transparent;
+}
+
+#ikona:hover {
+    color: #60ccd4;
+}
+#linki {
+    display: none;
+    width: 300px;
+    margin-top: 50px;
+    margin-right: -75px;
+    float: right;
+    text-transform: none;
+    font-size: 28px;
+}
+a {
+    color: #919fb1;
+    display: block;
+    background-color: #3e546e;
+    text-decoration: none;
+    padding-left: 40px;
+}
+a:hover {
+    background-color: #bdcada;
+    color: #3e546e;
+}
+#pasek {
+    width: 100%;
+    height: 35px;
+    background-color: #60ccd4;
+    box-shadow: 0px 0px 10px #3e546e;
+}
+#quote {
+    margin-left: 10%;
+}
+.av {
+    width: 200px;
+    height: 300px;
+    cursor: pointer;
+    border-radius: 15px;
+    border: 2px solid #3e546e;
+    -webkit-filter: grayscale(1);
+    filter: grayscale(1);
+    background-size: cover;
+    -moz-background-size: cover;
+    background-position: center;
+}
+.av:hover {
+    transition: 0.5s;
+    transform: scale(1.1);
+    z-index: 1;
+    filter: none;
+    box-shadow: 0px 0px 20px #3e546e;
+}
+@media (max-width: 800px) {
+    #banner { width: 800px; }
+    #matka { width: 800px; height: 130%; }
+    #linki { margin-top: 0px; margin-right: 0px;}
+    .av { width: 12%; height: 300px; }
+}
+
+
