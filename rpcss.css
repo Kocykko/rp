@@ -65,7 +65,7 @@ body {
     font-size: 23px;
     letter-spacing: 2px;
 }
-a {
+.am {
     color: #919fb1;
     display: block;
     background-color: #3e546e;
@@ -74,7 +74,7 @@ a {
     height: 35px;
     line-height: 30px;
 }
-a:hover {
+.am:hover {
     background-color: #bdcada;
     color: #3e546e;
 }
