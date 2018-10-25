@@ -61,16 +61,17 @@ body {
     margin-right: -75px;
     float: right;
     text-transform: none;
-    font-size: 25px;
+    font-size: 23px;
+    letter-spacing: 2px;
 }
 a {
     color: #919fb1;
-    height: 40px;
-    line-height: 40px;
     display: block;
     background-color: #3e546e;
     text-decoration: none;
     padding-left: 40px;
+    height: 30px;
+    line-height: 30px;
 }
 a:hover {
     background-color: #bdcada;
