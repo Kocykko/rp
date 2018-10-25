@@ -144,7 +144,6 @@ a:hover {
     top: 0;
     left: 0;
     background-color: #363434;
-    opacity: 0.9;
     overflow-x: hidden;
     transition: 0.5s;
 }
