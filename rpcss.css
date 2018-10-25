@@ -61,9 +61,11 @@ body {
     margin-right: -75px;
     float: right;
     text-transform: none;
-    font-size: 28px;
+    font-size: 22px;
 }
 a {
+    height: 40px;
+    line-height: 40px;
     color: #919fb1;
     display: block;
     background-color: #3e546e;
