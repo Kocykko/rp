@@ -7,7 +7,7 @@
 
 <body><div id="banner"></div>
 <div id="matka">
-    <div id="pas">There is no time to cry now
+    <div id="pas"><span id="quote">There is no time to cry now</span>
         <a href="javascript:void(0);" id="ikona" onclick="myFunction()">
             <i class="fa fa-bars"></i>
         </a>
@@ -24,10 +24,10 @@
     <div id="pasek" style="margin-top: 40px;"></div>
 
     <div class="av" style="background-image: url(https://i.imgur.com/e7Rw1Am.png); margin-top: -200px; margin-left: 15%;" onclick="openNav()"></div>
-        <div class="av" style="background-image: url(https://i.imgur.com/Jeeu1gP.png); margin-top: -303px; margin-left: 510px;" onclick="openNav2()"></div>
-        <div class="av" style="background-image: url(https://i.imgur.com/3H8oZbo.png); margin-top: -303px; margin-left: 765px; " onclick="openNav3()"></div>
-        <div class="av" style="background-image: url(https://via.placeholder.com/150x250); margin-top: -303px; margin-left: 1020px;" onclick="openNav4()"></div>
-        <div class="av" style="background-image: url(https://via.placeholder.com/150x250); margin-top: -303px; margin-left: 1275px;" onclick="openNav5()"></div>
+        <div class="av" style="background-image: url(https://i.imgur.com/Jeeu1gP.png); margin-top: -303px; margin-left: 30%;" onclick="openNav2()"></div>
+        <div class="av" style="background-image: url(https://i.imgur.com/3H8oZbo.png); margin-top: -303px; margin-left: 45%; " onclick="openNav3()"></div>
+        <div class="av" style="background-image: url(https://via.placeholder.com/150x250); margin-top: -303px; margin-left: 60%;" onclick="openNav4()"></div>
+        <div class="av" style="background-image: url(https://via.placeholder.com/150x250); margin-top: -303px; margin-left: 75%;" onclick="openNav5()"></div>
 </div>
 
 </body>
@@ -58,12 +58,11 @@
     }
 
     #pas {
-        width: 90%;
+        width: 100%;
         height: 50px;
         margin-left: auto;
         margin-right: auto;
         text-align: left;
-        padding-left: 170px;
         background-color: #1f2845;
         color: #a7bbc6;
         font-size: 30px;
@@ -113,6 +112,9 @@
         height: 35px;
         background-color: #60ccd4;
         box-shadow: 0px 0px 10px #3e546e;
+    }
+    #quote {
+        margin-left: 200px;
     }
     .av {
         width: 200px;
