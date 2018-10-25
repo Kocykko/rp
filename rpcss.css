@@ -62,11 +62,11 @@ body {
     float: right;
     text-transform: none;
     font-size: 25px;
-    line-height: 40px;
 }
 a {
     color: #919fb1;
     height: 40px;
+    line-height: 40px;
     display: block;
     background-color: #3e546e;
     text-decoration: none;
