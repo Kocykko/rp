@@ -164,17 +164,6 @@ a:hover {
     text-decoration: none;
     color: #c2c2c2;
 }
-@media screen and (max-height: 450px) {
-    .overlay a {font-size: 20px}
-    .overlay .closebtn {
-        font-size: 40px;
-        top: 15px;
-        right: 35px;
-        text-decoration: none;
-        color: #DBDBDB;
-    }
-}
-
 .overlay-content2 {
     position: relative;
     top: 25%;
