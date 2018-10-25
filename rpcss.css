@@ -158,6 +158,8 @@ a:hover {
 }
 .overlay .closebtn {
     position: absolute;
+    display: block;
+    background-color: transparent;
     top: 20px;
     right: 45px;
     font-size: 60px;
