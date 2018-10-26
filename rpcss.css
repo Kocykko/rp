@@ -113,7 +113,17 @@ body {
     #linki { margin-top: 0px; margin-right: 0px;}
     .av { width: 12%; height: 300px; }
 }
+.tlo1 {
+    width: 550px;
+    height: 700px;
+    background-image: url('https://i.imgur.com/b77VV44.jpg');
+    background-size: cover;
+    -moz-background-size: cover;
+    background-position: center;
+}
+.tlo2 {
 
+}
 
 
 
