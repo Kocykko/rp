@@ -523,9 +523,5 @@ body {
     height: 100%;
     z-index:2;
     margin: 0 auto;
-    margin-top: -200px;
+    margin-top: 10px;
 }
-
-
-
-
