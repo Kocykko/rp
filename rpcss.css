@@ -144,7 +144,7 @@ body {
     top: 0;
     left: 0;
 
-    background-color: #363434;
+    background-color: #393a3b;
     overflow-x: hidden;
     transition: 0.5s;
 }
@@ -201,7 +201,7 @@ body {
     border: 3px solid #4B7076;
 }
 #id {
-    color: #629a99;
+    color: #a7bbc6;
     font-weight: bold;
     letter-spacing: 6px;
     margin-top: -370px;
@@ -212,9 +212,9 @@ body {
     width: 206px;
     height: 50px;
     background-color: #1c1b1b;
-    color: #629a99;
-    border-bottom: 4px double #62929a;
-    border-top: 4px double #62929a;
+    color: #88a3b2;
+    border-bottom: 4px double #618396;
+    border-top: 4px double #618396;
     margin-top: 10px;
     line-height: 50px;
     text-transform: uppercase;
@@ -224,20 +224,20 @@ body {
     width: 348px;
     height: 50px;
     background-color: #1c1b1b;
-    color: #4E7B7A;
+    color: #80a6ba;
     font-size: 33px;
     font-weight: 900;
     letter-spacing: 3px;
     line-height: 50px;
-    border-top: 4px double #4e7b7a;
-    border-bottom: 4px double #4B7076;
+    border-top: 4px double #618396;
+    border-bottom: 4px double #618396;
     text-transform: uppercase;
 }
 .infopl2 {
     width: 348px;
     height: 338px;
-    background-color: #626061;
-    border-bottom: 4px double #1c1b1b;
+    background-color: #6A6B6C;
+    border-bottom: 4px double #526e7e;
     float: right;
     margin-top: -62%;
     margin-right: -5%;
@@ -245,7 +245,7 @@ body {
 .infopl3 {
     width: 558px;
     height: 40px;
-    color: #629a99;
+    color: #88a3b2;
     background-color: #1c1b1b;
     line-height: 40px;
     text-align: right;
@@ -253,8 +253,8 @@ body {
     letter-spacing: 2px;
     padding-left: 10px;
     padding-right: 10px;
-    border-top: 4px double #4e7b7a;
-    border-bottom: 4px double #4e7b7a;
+    border-top: 4px double #526e7e;
+    border-bottom: 4px double #526e7e;
     text-transform: uppercase;
     margin-top: 3%;
 
@@ -262,11 +262,11 @@ body {
 .pltext {
     width: 532px;
     height: 700px;
-    background-color: #626061;
+    background-color: #6A6B6C;
     color: #DBDBDB;
     padding: 20px;
-    border-left: 3px dashed #4e7b7a;
-    border-right: 3px dashed #4e7b7a;
+    border-left: 3px dashed #526e7e;
+    border-right: 3px dashed #526e7e;
     margin-bottom: 20px;
     overflow-y: auto;
     overflow-x: hidden;
@@ -283,7 +283,7 @@ body {
 #ramka2 {
     width: 245px;
     height: 290px;
-    background-color: #626061;
+    background-color: #6A6B6C;
     float: right;
     margin-top: -290px;
     padding-left: 20px;
@@ -302,7 +302,7 @@ body {
     width: 70px;
     height: 30px;
     background-color: #1c1b1b;
-    color: #62929a;
+    color: #9bb2be;
     line-height: 30px;
     margin-left: 20px;
     margin-top: 20px;
@@ -332,151 +332,151 @@ body {
 }
 #Sila {
     width: 30%;
-    background-color: #62929a;
+    background-color: #638ba1;
 }
 #Wytzyymalosc {
     width: 70%;
-    background-color: #62929a;
+    background-color: #638ba1;
 }
 #Zwinnosc {
     width: 50%;
-    background-color: #62929a;
+    background-color: #638ba1;
 }
 #Percepcja {
     width: 60%;
-    background-color: #62929a;
+    background-color: #638ba1;
 }
 #charyzma {
     width: 20%;
-    background-color: #62929a;
+    background-color: #638ba1;
 }
 #roztropnosc {
     width: 20%;
-    background-color: #62929a;
+    background-color: #638ba1;
 }
 #inteligencja {
     width: 50%;
-    background-color: #62929a;
+    background-color: #638ba1;
 }
 
 
 #Sila2 {
     width: 70%;
-    background-color: #62929a;
+    background-color: #638ba1;
 }
 #Wytrzymalosc2 {
     width: 20%;
-    background-color: #62929a;
+    background-color: #638ba1;
 }
 #Zwinnosc2 {
     width: 30%;
-    background-color: #62929a;
+    background-color: #638ba1;
 }
 #Percepcja2 {
     width: 40%;
-    background-color: #62929a;
+    background-color: #638ba1;
 }
 #charyzma2 {
     width: 70%;
-    background-color: #62929a;
+    background-color: #638ba1;
 }
 #roztropnosc2 {
     width: 30%;
-    background-color: #62929a;
+    background-color: #638ba1;
 }
 #inteligencja2 {
     width: 40%;
-    background-color: #62929a;
+    background-color: #638ba1;
 }
 
 
 #Sila3 {
     width: 20%;
-    background-color: #62929a;
+    background-color: #638ba1;
 }
 #Wytzyymalosc3 {
     width: 20%;
-    background-color: #62929a;
+    background-color: #638ba1;
 }
 #Zwinnosc3 {
     width: 60%;
-    background-color: #62929a;
+    background-color: #638ba1;
 }
 #Percepcja3 {
     width: 30%;
-    background-color: #62929a;
+    background-color: #638ba1;
 }
 #charyzma3 {
     width: 20%;
-    background-color: #62929a;
+    background-color: #638ba1;
 }
 #roztropnosc3 {
     width: 20%;
-    background-color: #62929a;
+    background-color: #638ba1;
 }
 #inteligencja3 {
     width: 30%;
-    background-color: #62929a;
+    background-color: #638ba1;
 }
 
 
 #Sila4 {
     width: 10%;
-    background-color: #62929a;
+    background-color: #638ba1;
 }
 #Wytzyymalosc4 {
     width: 40%;
-    background-color: #62929a;
+    background-color: #638ba1;
 }
 #Zwinnosc4 {
     width: 30%;
-    background-color: #62929a;
+    background-color: #638ba1;
 }
 #Percepcja4 {
     width: 20%;
-    background-color: #62929a;
+    background-color: #638ba1;
 }
 #charyzma4 {
     width: 10%;
-    background-color: #62929a;
+    background-color: #638ba1;
 }
 #roztropnosc4 {
     width: 60%;
-    background-color: #62929a;
+    background-color: #638ba1;
 }
 #inteligencja4 {
     width: 80%;
-    background-color: #62929a;
+    background-color: #638ba1;
 }
 
 
 #Sila5 {
     width: 50%;
-    background-color: #62929a;
+    background-color: #638ba1;
 }
 #Wytzyymalosc5 {
     width: 40%;
-    background-color: #62929a;
+    background-color: #638ba1;
 }
 #Zwinnosc5 {
     width: 30%;
-    background-color: #62929a;
+    background-color: #638ba1;
 }
 #Percepcja5 {
     width: 20%;
-    background-color: #62929a;
+    background-color: #638ba1;
 }
 #charyzma5 {
     width: 10%;
-    background-color: #62929a;
+    background-color: #638ba1;
 }
 #roztropnosc5 {
     width: 60%;
-    background-color: #62929a;
+    background-color: #638ba1;
 }
 #inteligencja5 {
     width: 80%;
-    background-color: #62929a;
+    background-color: #638ba1;
 }
 
 
@@ -511,7 +511,7 @@ body {
     text-align: left;
 }
 .segr {
-    color: #4e7b7a;
+    color: #80a6ba;
     width: auto;
     height: auto;
     font-weight: 900;
