@@ -521,6 +521,6 @@ body {
 .wszystko {
     width: 600px;
     height: 100%;
-    z-index: 2;
+    margin-top: -200px; !important;
 }
 
