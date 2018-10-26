@@ -152,7 +152,6 @@ body {
 .overlay-content {
     position: relative;
     width: 100%;
-    margin-top: -500px;
     text-align: center;
 }
 .overlay .closebtn {
