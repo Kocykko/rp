@@ -141,8 +141,9 @@ body {
     width: 0;
     position: fixed;
     z-index: 1;
+    top: 0;
     left: 0;
-    margin-top: -100px;
+
     background-color: #363434;
     overflow-x: hidden;
     transition: 0.5s;
@@ -205,7 +206,7 @@ body {
     letter-spacing: 6px;
     margin-top: -370px;
     float: right;
-    margin-right: 5%;
+    margin-right: -5%;
 }
 #infopl1 {
     width: 206px;
@@ -238,8 +239,8 @@ body {
     background-color: #626061;
     border-bottom: 4px double #1c1b1b;
     float: right;
-    margin-top: -57%;
-    margin-right: 4%;
+    margin-top: -62%;
+    margin-right: -5%;
 }
 .infopl3 {
     width: 558px;
@@ -519,8 +520,10 @@ body {
     margin-right: 15px;
 }
 .wszystko {
-    width: 600px;
+    width: 550px;
     height: 100%;
     margin-top: -200px; !important;
+    margin-left: auto;
+    margin-right: auto;
 }
 
