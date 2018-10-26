@@ -150,6 +150,7 @@ body {
 
 .overlay-content {
     position: relative;
+    top: 25%;
     width: 100%;
     text-align: center;
     margin-top: 30px;
@@ -166,24 +167,28 @@ body {
 }
 .overlay-content2 {
     position: relative;
+    top: 25%;
     width: 100%;
     text-align: center;
     margin-top: 30px;
 }
 .overlay-content3 {
     position: relative;
+    top: 25%;
     width: 100%;
     text-align: center;
     margin-top: 30px;
 }
 .overlay-content4 {
     position: relative;
+    top: 25%;
     width: 100%;
     text-align: center;
     margin-top: 30px;
 }
 .overlay-content5 {
     position: relative;
+    top: 25%;
     width: 100%;
     text-align: center;
     margin-top: 30px;
@@ -518,6 +523,5 @@ body {
     height: 100%;
     z-index: 2;
     margin-top: -600px;
-    display: block;
 }
 
