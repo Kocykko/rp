@@ -15,6 +15,7 @@
 body {
     background-color: #a7bbc6;
     font-family: Dosis;
+    font-size: 17px;
 }
 
 #matka {
@@ -211,7 +212,7 @@ body {
 #infopl1 {
     width: 206px;
     height: 50px;
-    background-color: #1c1b1b;
+    background-color: #1c1d1d;
     color: #88a3b2;
     border-bottom: 4px double #618396;
     border-top: 4px double #618396;
@@ -223,7 +224,7 @@ body {
 #infopldziecko {
     width: 348px;
     height: 50px;
-    background-color: #1c1b1b;
+    background-color: #1c1d1d;
     color: #80a6ba;
     font-size: 33px;
     font-weight: 900;
@@ -241,12 +242,13 @@ body {
     float: right;
     margin-top: -62%;
     margin-right: -5%;
+    color: #333333;
 }
 .infopl3 {
     width: 558px;
     height: 40px;
     color: #88a3b2;
-    background-color: #1c1b1b;
+    background-color: #1c1d1d;
     line-height: 40px;
     text-align: right;
     font-size: 20px;
@@ -263,7 +265,7 @@ body {
     width: 532px;
     height: 700px;
     background-color: #6A6B6C;
-    color: #DBDBDB;
+    color: #c2c2c2;
     padding: 20px;
     border-left: 3px dashed #526e7e;
     border-right: 3px dashed #526e7e;
@@ -271,8 +273,6 @@ body {
     overflow-y: auto;
     overflow-x: hidden;
 }
-::-webkit-scrollbar{width:8px;}
-::-webkit-scrollbar-thumb{background: #363434; border-radius:0px;}
 #ramka {
     width: 265px;
     height: 290px;
@@ -301,7 +301,7 @@ body {
 .malegowno {
     width: 70px;
     height: 30px;
-    background-color: #1c1b1b;
+    background-color: #1c1d1d;
     color: #9bb2be;
     line-height: 30px;
     margin-left: 20px;
@@ -324,7 +324,7 @@ body {
     float: left;
     margin: 0;
     margin-top: -4px;
-    color: #363434;
+    color: #333333;
     font-weight: bolder;
     letter-spacing: 6px;
     text-transform: uppercase;
@@ -526,4 +526,5 @@ body {
     margin-left: auto;
     margin-right: auto;
 }
-
+::-webkit-scrollbar{width:8px; background: white;}
+::-webkit-scrollbar-thumb{background: #c2c2c2; border-radius:0px; }
