@@ -142,7 +142,8 @@ body {
     position: fixed;
     z-index: 1;
     top: 0;
-    left: 0;
+    left: auto;
+    right: auto;
     background-color: #363434;
     overflow-x: hidden;
     transition: 0.5s;
