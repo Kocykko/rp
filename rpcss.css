@@ -115,7 +115,13 @@ body {
     #matka { width: 800px; height: 140%; }
     #linki { margin-top: 0px; margin-right: 0px;}
     .av { width: 12%; height: 300px; }
-    .tlo1 {width: 100%; margin-left: auto; margin-right: auto; float: none;}
+    .tlo1 {width: 100%; margin-left: auto; margin-right: auto;}
+    #lewo {float: none;}
+    #prawo {float: none;}
+    #lewo2 {float: none;}
+    #prawo2 {float: none;}
+    #lewo3 {float: none;}
+    #prawo3 {float: none;}
     .tloimg {width: 100%;}
 }
 .tlo1 {
