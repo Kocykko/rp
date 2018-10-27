@@ -116,12 +116,12 @@ body {
     #linki { margin-top: 0px; margin-right: 0px;}
     .av { width: 12%; height: 300px; }
     .tlo1 {width: 100%; margin-left: auto; margin-right: auto;}
-    #lewo {float: none;}
-    #prawo {float: none;}
-    #lewo2 {float: none;}
-    #prawo2 {float: none;}
-    #lewo3 {float: none;}
-    #prawo3 {float: none;}
+    #lewo {float: none; margin: 0;}
+    #prawo {float: none; margin: 0;}
+    #lewo2 {float: none; margin: 0;}
+    #prawo2 {float: none; margin: 0;}
+    #lewo3 {float: none; margin: 0;}
+    #prawo3 {float: none; margin: 0;}
     .tloimg {width: 100%;}
 }
 .tlo1 {
