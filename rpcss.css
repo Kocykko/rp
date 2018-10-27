@@ -9,7 +9,7 @@
     margin-left: auto;
     margin-right: auto;
     margin-top: -7px;
-    border-bottom: 3px groove #1f2845;
+    border-bottom: 3px solid #24303c;
 }
 
 body {
@@ -32,7 +32,7 @@ body {
     margin-left: auto;
     margin-right: auto;
     text-align: left;
-    background-color: #1f2845;
+    background-color: #2c3a49;
     color: #a7bbc6;
     font-size: 30px;
     line-height: 50px;
@@ -40,6 +40,8 @@ body {
     text-decoration: none;
     font-family: Kodchasan;
     text-transform: uppercase;
+    border-bottom: 3px solid #24303c;
+
 }
 
 #ikona {
@@ -54,17 +56,18 @@ body {
 }
 
 #ikona:hover {
-    color: #60ccd4;
+    color: #338899;
 }
 #linki {
     display: none;
     width: 300px;
-    margin-top: 50px;
-    margin-right: -75px;
+    margin-top: 52px;
+    margin-right: -35px;
     float: right;
     text-transform: none;
     font-size: 23px;
     letter-spacing: 2px;
+
 }
 .am {
     color: #919fb1;
@@ -114,17 +117,39 @@ body {
     .av { width: 12%; height: 300px; }
 }
 .tlo1 {
-    width: 550px;
-    height: 700px;
-    background-image: url('https://i.imgur.com/b77VV44.jpg');
-    background-size: cover;
-    -moz-background-size: cover;
-    background-position: center;
+    width: 600px;
+    height: 650px;
+    background-color: #8c9aa5;
+    padding-top: 40px;
+    margin-top: 80px;
 }
 .tlo2 {
-
+    width: 500px;
+    height: 585px;
+    background-color: #334455;
+    margin-left: 50px;
+    box-shadow: 0px 0px 30px #32414B;
+    padding-top: 25px;
 }
-
+.tlo3txt {
+    width: 400px;
+    height: 520px;
+    border: 1px solid #a7bbc6;
+    margin-left: 30px;
+    padding: 20px;
+    color: #d6d6d6;
+}
+.tlohead {
+    font-family: Syncopate;
+    color: #8c9aa5;
+    text-transform: uppercase;
+    font-size: 45px;
+    font-weight: 700;
+    letter-spacing: 9px;
+    margin-top: -640px;
+    margin-left: 60px;
+    text-shadow: 0px 0px 10px #32414B;
+}
 
 
 
