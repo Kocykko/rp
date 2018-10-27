@@ -115,7 +115,7 @@ body {
     #matka { width: 800px; height: 250%; }
     #linki { margin-top: 0px; margin-right: 0px;}
     .av { width: 12%; height: 300px; }
-    .tlo1 {width: 100%; margin-left: auto; margin-right: auto;}
+    .tlo1 {width: 100%; margin-left: auto; margin-right: auto; margin-top: 0px;}
     #lewo {float: none; margin: 0;}
     #prawo {float: none; margin: 0;}
     #lewo2 {float: none; margin: 0;}
