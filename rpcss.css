@@ -110,7 +110,7 @@ body {
     filter: none;
     box-shadow: 0px 0px 20px #3e546e;
 }
-@media (max-width: 320px) {
+@media (max-width: 720px) {
     #banner { width: 800px; }
     #matka { width: 800px; height: 250%; }
     #linki { margin-top: 0px; margin-right: 0px;}
