@@ -115,7 +115,8 @@ body {
     #matka { width: 800px; height: 250%; }
     #linki { margin-top: 0px; margin-right: 0px;}
     .av { width: 12%; height: 300px; }
-
+    .tlo1 { width: 100%;}
+    .tloimg { width: 100%;}
 }
 .tlo1 {
     width: 600px;
