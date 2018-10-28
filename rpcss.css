@@ -116,7 +116,7 @@ body {
 
 .tlo1 {
     width: 600px;
-    height: 450px;
+    height: 560px;
     background-color: #334455;
     padding-top: 40px;
     margin-top: 240px;
@@ -131,6 +131,7 @@ body {
     border: 3px solid #24303c;
     margin-left: -3px;
     border-bottom: none;
+    margin-bottom: 30px;
 }
 .tlohead {
     font-family: Syncopate;
@@ -139,17 +140,26 @@ body {
     font-size: 45px;
     font-weight: 700;
     letter-spacing: 9px;
-    margin-top: -25px;
+    margin-top: -55px;
     margin-left: 60px;
     text-shadow: 0px 0px 10px #334455;
 }
 .tlo2 {
-    width: 530px;
-    height: 415px;
+    width: 490px;
+    height: 480px;
     border: 1px solid #bdcada;
     border-top: none;
     margin-left: 35px;
+    color: whitesmoke;
+    padding: 20px;
+    overflow-y: auto;
     margin-top: -25px;
+}
+.znacznik {
+    font-family: Orbitron;
+    color: #338899;
+    font-weight: bold;
+    margin-right: 10px;
 }
 
 
