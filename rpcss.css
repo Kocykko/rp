@@ -1,5 +1,5 @@
 
-#banner {
+.banner {
     width: 90%;
     height: 500px;
     background-image: url('https://i.imgur.com/hcpRRK0.jpg');
@@ -18,7 +18,7 @@ body {
     font-size: 17px;
 }
 
-#matka {
+.matka {
     width: 90%;
     background-color: #dce0df;
     margin-left: auto;
@@ -110,11 +110,10 @@ body {
     box-shadow: 0px 0px 20px #3e546e;
 }
 @media (max-width: 500px)  {
-
     #linki { margin-top: 0px; margin-right: 0px;}
     .av { width: 12%; height: 300px; }
-    #banner { width: 100%; }
-    #matka { width: 100%; height: 250%; }
+    .banner { width: 100%; }
+    .matka { width: 100%; height: 250%; }
     .tlo1 { width: 90%; margin-left: auto; margin-right: auto;}
     .tloimg { width: 90%; margin-left: auto; margin-right: auto;}
 }
