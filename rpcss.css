@@ -110,7 +110,7 @@ body {
     filter: none;
     box-shadow: 0px 0px 20px #3e546e;
 }
-@media (min-width: 320px;)(max-width: 1000px;)  {
+@media (max-width: 320px;)  {
 
     #linki { margin-top: 0px; margin-right: 0px;}
     .av { width: 12%; height: 300px; }
