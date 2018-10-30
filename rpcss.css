@@ -113,7 +113,7 @@ body {
 @media (max-width: 700px) {
     .banner {width: 100%; height: 20%;}
     .matka {width: 100%; height: 250%;}
-    .pas {width: 100%; height: 20px; font-size: small; line-height: 20px;}
+    .pas {width: 100%; height: 20px; font-size: 20px; line-height: 20px; float: left;}
     .quote {margin-left: 0;}
     .ikona {right: 0px; font-size: 30px;}
     #linki {margin-top: 0; margin-right: 0;}
