@@ -86,7 +86,7 @@ body {
     width: 100%;
     height: 35px;
     background-color: #60ccd4;
-    box-shadow: 0px 0px 10px #3e546e;
+    box-shadow: 0 0 10px #3e546e;
 }
 #quote {
     margin-left: 10%;
@@ -108,23 +108,25 @@ body {
     transform: scale(1.1);
     z-index: 1;
     filter: none;
-    box-shadow: 0px 0px 20px #3e546e;
+    box-shadow: 0 0 20px #3e546e;
 }
 @media (max-width: 700px) {
-    #linki {margin-top: 0px; margin-right: 0px;}
+    .banner {width: 100%; height: 10%;}
+    .matka {width: 100%; height: 250%;}
+    #linki {margin-top: 0; margin-right: 0;}
     .av {width: 12%; height: 300px; }
     .banner {width: 100%; height: 10%;}
-    .matka {width: 100%; height: 250%; }
-    .tlo1 { width: 100%; margin-left: 0px; margin-right: 0px;}
-    .tloimg { width: 100%; margin-left: 0px; margin-right: 0px;}
-    #lewo {}
+    .matka {width: 100%; height: 250%;}
+    .tlo1 { width: 100%; margin-left: 0; margin-right: 0;}
+    .tloimg { width: 100%; margin-left: 0; margin-right: 0;}
+
     #prawo {margin-top: 500px; top: 500px;}
 }
 
 
 
 .tlo1 {
-    width: 25%;
+    width: 35%;
     height: 560px;
     background-color: #334455;
     padding-top: 40px;
@@ -134,7 +136,7 @@ body {
     border: 3px solid #24303c;
 }
 .tloimg {
-    width: 25%;
+    width: 100%;
     height: 200px;
     margin-top: -200px;
     border: 3px solid #24303c;
@@ -151,7 +153,7 @@ body {
     letter-spacing: 9px;
     margin-top: -55px;
     margin-left: 60px;
-    text-shadow: 0px 0px 10px #334455;
+    text-shadow: 0 0 10px #334455;
 }
 .tlo2 {
     width: 490px;
