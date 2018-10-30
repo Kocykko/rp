@@ -114,6 +114,7 @@ body {
     .banner {width: 100%; height: 20%;}
     .matka {width: 100%; height: 250%;}
     .pas {height: 20px; width: 100%; font-size: medium; line-height: 20px;}
+    #quote {float: left;}
     .ikona {right: 0px; font-size: 30px;}
     #linki {margin-top: 0; margin-right: 0;}
     .av {width: 12%; height: 300px; }
