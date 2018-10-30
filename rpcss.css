@@ -113,6 +113,7 @@ body {
 @media (max-width: 700px) {
     .banner {width: 110%; height: 20%; margin-left: auto; margin-right: auto;}
     .matka {width: 110%; height: 250%; margin-left: auto; margin-right: auto;}
+    .pas {font-size: 20px;}
     #linki {margin-top: 0; margin-right: 0;}
     .av {width: 12%; height: 300px; }
     .tlo1 { width: 90%; margin-left: 0; margin-right: 0;}
