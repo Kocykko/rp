@@ -133,6 +133,14 @@ body {
     border-bottom: none;
     margin-bottom: 30px;
 }
+#tloimg2 {
+    width: 250px;
+    height: 450px;
+    background-image: url('https://i.imgur.com/dO8AuYM.jpg');
+    border: 3px solid #24303c;
+    margin-left: auto;
+    margin-right: auto;
+}
 .tlohead {
     font-family: Syncopate;
     color: #bdcada;
@@ -144,6 +152,13 @@ body {
     margin-left: 10%;
     text-shadow: 0 0 10px #334455;
 }
+#tlohead2 {
+    width: 100%;
+    display: block;
+    margin: 0px;
+    font-size: 40px;
+    text-align: center;
+}
 .tlo2 {
     width: 80%;
     height: 480px;
@@ -153,16 +168,35 @@ body {
     margin-right: auto;
     color: whitesmoke;
     padding: 20px;
-    padding-top: 0px;
+    padding-top: 0;
     overflow-y: auto;
     overflow-x: hidden;
     margin-top: -25px;
+}
+#tlo2test {
+    height: 405px;
+    width: 450px;
+    float: left;
+    margin-left: 20px;
+    margin-top: 5px;
+    border-right: none;
+}
+#tlo2test3 {
+    float: right;
+    margin-right: 20px;
+    width: 450px;
+    height: 425px;
+    margin-top: -450px;
+    border-left: none;
+
 }
 .znacznik {
     font-family: Orbitron;
     color: #338899;
     font-weight: bold;
     margin-right: 10px;
+    text-transform: uppercase;
+
 }
 .przerwa {
     width: 80%;
@@ -175,9 +209,19 @@ body {
     margin-right: auto;
     padding: 20px;
 }
+.tlotest {
+    width: 76%;
+    height: 520px;
+    margin-top: 1750px;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: #334455;
+    border: 3px solid #24303c;
+
+}
 
 @media (max-width: 700px) {
-    #linki { margin-top: 0px; margin-right: 0px;}
+    #linki { margin-top: 0; margin-right: 0;}
     .av { width: 12%; height: 300px; }
     .banner { width: 100%; height: 20%;}
     .matka { width: 100%; height: 250%; }
