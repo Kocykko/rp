@@ -134,7 +134,7 @@ body {
     margin-bottom: 30px;
 }
 #tloimg2 {
-    width: 250px;
+    width: 19%;
     height: 450px;
     background-image: url('https://i.imgur.com/dO8AuYM.jpg');
     border: 3px solid #24303c;
@@ -175,7 +175,7 @@ body {
 }
 #tlo2test {
     height: 405px;
-    width: 450px;
+    width: 35%;
     float: left;
     margin-left: 20px;
     margin-top: 5px;
@@ -184,7 +184,7 @@ body {
 #tlo2test3 {
     float: right;
     margin-right: 20px;
-    width: 450px;
+    width: 35%;
     height: 425px;
     margin-top: -450px;
     border-left: none;
