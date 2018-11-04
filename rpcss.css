@@ -303,7 +303,7 @@ a:hover {
     letter-spacing: 6px;
     margin-top: -370px;
     float: right;
-    margin-right: -5%;
+    margin-right: ;
 }
 #infopl1 {
     width: 206px;
@@ -336,8 +336,8 @@ a:hover {
     background-color: #6A6B6C;
     border-bottom: 4px double #526e7e;
     float: right;
-    margin-top: -62%;
-    margin-right: -5%;
+    margin-top: -59%;
+    margin-right: ;
     color: #333333;
 }
 .infopl3 {
@@ -616,9 +616,9 @@ a:hover {
     margin-right: 15px;
 }
 .wszystko {
-    width: 550px;
+    width: 580px;
     height: 100%;
-    margin-top: -220px;
+    margin-top: -10%;
     margin-left: auto;
     margin-right: auto;
 }
