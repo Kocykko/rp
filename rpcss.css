@@ -518,23 +518,23 @@ a:hover {
 
 
 #Sila4 {
-    width: 10%;
-    background-color: #638ba1;
-}
-#Wytzyymalosc4 {
-    width: 40%;
-    background-color: #638ba1;
-}
-#Zwinnosc4 {
-    width: 30%;
-    background-color: #638ba1;
-}
-#Percepcja4 {
     width: 20%;
     background-color: #638ba1;
 }
+#Wytzyymalosc4 {
+    width: 20%;
+    background-color: #638ba1;
+}
+#Zwinnosc4 {
+    width: 20%;
+    background-color: #638ba1;
+}
+#Percepcja4 {
+    width: 80%;
+    background-color: #638ba1;
+}
 #charyzma4 {
-    width: 10%;
+    width: 50%;
     background-color: #638ba1;
 }
 #roztropnosc4 {
@@ -542,7 +542,7 @@ a:hover {
     background-color: #638ba1;
 }
 #inteligencja4 {
-    width: 80%;
+    width: 50%;
     background-color: #638ba1;
 }
 
